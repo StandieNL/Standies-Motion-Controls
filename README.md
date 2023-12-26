@@ -19,7 +19,7 @@ _The script can also be adjusted to map motions to different buttons, to change 
 
 The **v0.80 script** has the same functions as v0.60 and also maps all Joy-con buttons and triggers to their Xbox 360 counterparts. However, joystick support is semi-broken and rumble doesn't work. Right now, this script is only useful when using emulators which allow various various input devices, or when using an input mapper which allows various input devices to be emulated as one device.
 
-### How do I contribute?:
+### How do I contribute?
 
 Anyone who wants to help me finish this script or wants my input on creating their own motion control script is very welcome. I am not a programmer or coder. I do not know what I am doing and worked on this script for many months to get this far. While I still suck at coding, I have gained a much better understanding of the possibilities and limitations of the joy-cons. In the end result, there will be various options. Like differentiating between horizontal and vertical motions. Or putting a joy-con in your pocket to detect jumps. To finish it may take me many more months, perhaps even years. But I am passionate about getting it working eventually.
 
