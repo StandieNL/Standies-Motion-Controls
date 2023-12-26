@@ -7,7 +7,7 @@ It works by setting thresholds for the gyro sensor speed and accelerometer speed
 
 ### How do I use it?
 
-The specific **v0.60.exe configuration** has the following functions:
+The specific **v0.60.exe release** has the following functions:
 - Shake the right joy-con to press the B button.
 - Shake the left joy-con to press the A button.
 - Hold the SL button on the right joy-con to allow continuous input. This means that you can hold the SL button and propel your right arm around to hold the B button. For instance if you want to charge an attack.
