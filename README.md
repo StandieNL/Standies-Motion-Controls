@@ -44,6 +44,6 @@ You need [ViGEmBus](https://github.com/nefarius/ViGEmBus) by [nefarius](https://
 
 [nondebug](https://stackoverflow.com/users/6529658/nondebug) on Stackoverflow for helping me understand vgamepad a little better.
 
-[SuperLouis64](https://www.youtube.com/@SuperLouis64) for representing the fun of motion controls on SuperLouis64.
+[SuperLouis64](https://www.youtube.com/@SuperLouis64) for representing the fun of motion controls on [SuperLouis64](https://www.youtube.com/@SuperLouis64).
 
 This code also would not have been possible without ChatGPT.
