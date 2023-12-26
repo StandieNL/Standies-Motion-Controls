@@ -34,6 +34,13 @@ You need [ViGEmBus](https://github.com/nefarius/ViGEmBus) by [nefarius](https://
 - Support three or four joy-cons instead of just two
 - Provide a GUI to easily map and configure motion controls, with the option to save and load profiles
 
+### What it looks like in practice:
+
+https://github.com/StandieNL/Standies-Motion-Controls/assets/154834381/f1d1e899-8a0d-4be2-8e87-152f97d8423c
+
+https://github.com/StandieNL/Standies-Motion-Controls/assets/154834381/62ed4cba-2a85-4e95-8e04-1a7bf62da06d
+
+
 ### All credit goes to:
 
 [yannbouteiller](https://github.com/yannbouteiller) for creating [vgamepad](https://github.com/yannbouteiller/vgamepad), which is used in my script to create the virtual gamepad.
