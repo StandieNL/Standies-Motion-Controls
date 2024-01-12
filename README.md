@@ -15,9 +15,11 @@ The specific **v0.60.exe release** has the following functions:
 
 Make sure to download the requirement and connect a pair of Joy-Cons to Windows natively before opening the .exe file.
 
+Right now, this script is only useful when using emulators which allow various various input devices, or when using an input mapper which allows various input devices to be emulated as one device.
+
 _The script can also be adjusted to map motions to different buttons, to change the thresholds (sensitivity) and to change the cooldown after each input. The cooldown is important in preventing accidental inputs._
 
-The **v0.80 script** has the same functions as v0.60 and also maps all Joy-con buttons and triggers to their Xbox 360 counterparts. However, joystick support is semi-broken and rumble doesn't work. Right now, this script is only useful when using emulators which allow various various input devices, or when using an input mapper which allows various input devices to be emulated as one device.
+The **v0.80 script** has the same functions as v0.60 and also maps all Joy-con buttons and triggers to their Xbox 360 counterparts. However, joystick support is semi-broken and rumble isn't implemented at all.
 
 ### How do I contribute?
 
