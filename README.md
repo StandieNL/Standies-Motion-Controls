@@ -1,3 +1,5 @@
+##This project has been replaced by my newer motion control application [BetterJoyMotion](https://github.com/StandieNL/BetterJoyMotion)
+
 ### What is this?
 Use fun Wii-style motion controls with Nintendo Joy-Cons in almost any PC game!
 
